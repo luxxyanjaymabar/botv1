@@ -218,33 +218,33 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
     title: `${htki} RULES ${htka}`,
 	rows: [
-	    {title: `🚦 ${pmenus} PLEASE READ THIS RULES
+	    {title: `📮 ${pmenus} PLEASE READ THIS RULES
 
 ® ${pmenus} DILARANG SPAM BOT | *JIKA BELUM BERDONASI*
 ® ${pmenus} GUNAKAN BOT SEBAIK MUNGKIN | *PASTI FAHAMLAH*
 ® ${pmenus} OWNER ADALAH DEWA`, rowId: ".donasi", description: `${namebot}`},
 	    //{title: ` ${pmenus} GUNAKAN BOT SEBAIK MUNGKIN`, description: "Pasti Fahamlah"},
-	    //{title: `🚥 ${pmenus} OWNER ADALAH DEWA`, description: `${namebot}`},
+	    //{title: `📮 ${pmenus} OWNER ADALAH DEWA`, description: `${namebot}`},
 	]
     },{
 	title: `${htki} MAIN ${htka}`,
 	rows: [
 	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon BOT"},
-	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
+	    {title: `🌸 ${pmenus} OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
+	    {title: `🎗️ ${pmenus} SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
 	rows: [
-	    {title: `🔖 ${pmenus} SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa BOT"},
+	    {title: `🔖 ${pmenus} SEWA LUCCY BOT`, rowId: ".sewa", description: "Menampilkan list harga sewa BOT"},
 	    {title: `🌟 ${pmenus} BUY PREMIUM`, rowId: ".premium", description: "Menampilkan list harga premium"},
-	    {title: `💹 ${pmenus} DONASI`, rowId: ".donasi", description: 'Support BOT agar lebih fast respon'},
+	    {title: `💹 ${pmenus} DONASI OWNER`, rowId: ".donasi", description: 'Support BOT agar lebih fast respon'},
 	]
 	},{
 	title: `${htki} MENU ${htka}`,
 	rows: [
-	    {title: `💬 ${pmenus} All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
-	    {title: `🌱 ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
+	    {title: `💬 ${pmenus} All`, rowId: ".? all", description: "Wahh Langsung Semuanya>//<"},
+	    {title: `🌱 ${pmenus} Rpg`, rowId: ".? rpg", description: "Game Epic Rpg LuccyBot"},
 	{title: `✨ ${pmenus} Exp`, rowId: ".? xp", description: "Ayo tingkatkan pangkat mu!"},
 	{title: `🎮 ${pmenus} Game`, rowId: ".? game", description: "Gamenya seru seru lho >-<"},
 	{title: `🧩 ${pmenus} Fun`, rowId: ".? fun", description: "Fitur yang aman untuk keluarga"},
