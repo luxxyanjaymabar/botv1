@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/luxxyxyz'
+global.sgh = 'https://github.com/luxxyanjaymabar'
+global.sgc = 'https://chat.whatsapp.com/CIv0mTBUteK8zy7crxdOj7'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '088210072756'
+global.povo = '088210072756'
+global.pgopay = '088210072756'
+global.ppulsa = '088210072756'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6287818916348'
+global.nomorown = '6288210072756'
+global.namebot = 'LuccyBot'
+global.nameown = 'LuxxyVFX'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['6288210072756'],
+  ['6288210072756'],
+  ['6288210072756'],
+  ['6288210072756', 'LuxxyVFX', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -87,10 +87,11 @@ global.APIs = { // API Prefix
   lol: 'https://api.lolhuman.xyz',
   dhnjing: 'https://dhnjing.xyz',
   neoxr: 'https://neoxr-api.herokuapp.com',
-  zeks: 'https://api.zeks.me',
+  zeks: 'https://api.zeks.xyz',
   pencarikode: 'https://pencarikode.xyz',
   ana: 'https://anabotofc.herokuapp.com/',
   amel: 'https://melcanz.com',
+  bsbt: 'https://bsbt-api-rest.herokuapp.com', 
   hardianto: 'https://hardianto.xyz',
   botstyle: 'https://botstyle-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
@@ -99,25 +100,26 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
-  'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
+  'https://anabotofc.herokuapp.com/': 'AnaBot',
+  'https://api.lolhuman.xyz': 'Papah-Chan',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'APIKEY',
+  'https://melcanz.com': 'gedFijw7',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://botstyle-api.herokuapp.com': 'Fa2GhFnr',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Luccy Botあ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Luccy Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺Luccy 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
